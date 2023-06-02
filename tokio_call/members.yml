@@ -1,0 +1,15 @@
+- name: 城島 茂
+  age : 52
+  instrument: ギターボーカル
+- name: 国分 太一
+  age : 48
+  instrument: キーボードボーカル
+- name: 松岡 昌宏
+  age : 46
+  instrument: ドラムボーカル
+- name: 山口 達也
+  age : 51
+  instrument: ベースボーカル
+- name: 長瀬 智也
+  age : 44
+  instrument: ギターボーカル
