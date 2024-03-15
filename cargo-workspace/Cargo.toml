@@ -4,4 +4,5 @@ members = [
     "add-one",
     "add-two",
     "add-random-1to10",
+    "random-adder",
 ]
